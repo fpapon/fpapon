@@ -4,7 +4,7 @@
 
 :bowtie: You can learn more about me on [LinkedIn](https://www.linkedin.com/in/paponfrancois/)
 
-:bird: You can follow me on [Tweeter](https://twitter.com/fpapon2)
+:bird: You can follow me on [Tweeter](https://twitter.com/fpapon2) and [Mastodon](https://hostux.social/@fpapon)
 
 :scroll: I love to share some code on [my blog](https://fpapon.github.io/)
 
