@@ -6,6 +6,6 @@
 
 :bird: You can follow me on [X/Twitter](https://twitter.com/fpapon2)
 
-:scroll: I love to share some code on [my blog](https://medium.com/@fpapon30)
+:scroll: I love to share some news and thoughts on [Medium](https://medium.com/@fpapon30)
 
 :honeybee: I'm member at the [Apache Software Foundation](https://www.apache.org)
