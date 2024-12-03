@@ -4,7 +4,7 @@
 
 :bowtie: You can learn more about me on [LinkedIn](https://www.linkedin.com/in/paponfrancois/)
 
-:bird: You can follow me on [X/Twitter](https://twitter.com/fpapon2) and [BlueSky](https://bsky.app/profile/fpapon.bsky.social)
+🦋 You can follow me on [BlueSky](https://bsky.app/profile/fpapon.bsky.social)
 
 :scroll: I love to share some news and thoughts on [Medium](https://medium.com/@fpapon30)
 
