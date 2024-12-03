@@ -8,7 +8,7 @@
 
 :scroll: I love to share some news and thoughts on [Medium](https://medium.com/@fpapon30)
 
-:honeybee: I'm member at the [Apache Software Foundation](https://www.apache.org)
+:honeybee: I'm member at the [Apache Software Foundation](https://www.apache.org) - [Committer info](https://people.apache.org/committer-index.html#fpapon)
 
 🏃 Runner
 
